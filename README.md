@@ -1,4 +1,4 @@
-# salones
+# Salone
 This repository is the starter plugin for the Custom Post Type Basics. It gives you a shell for building the plugin in your WordPress sandbox.
 
 Installation
